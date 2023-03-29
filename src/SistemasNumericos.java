@@ -4,28 +4,43 @@ import javax.swing.*;
 public class SistemasNumericos {
     public static void main(String[] args) {
 
-        String numeroStr= JOptionPane.showInputDialog(null,"Ingresar el numero entero");
-        int numDecimal=Integer.parseInt(numeroStr);
+        String numeroStr = JOptionPane.showInputDialog(null, "Ingresar el numero entero");
+        int numDecimal = 0;
+
+        try {
+            numDecimal = Integer.parseInt(numeroStr);
+        } catch (NumberFormatException e) {
+            JOptionPane.showMessageDialog(null, "Error debe ingresar un numero entero");
+            main(args);
+            System.exit(0);
+        }
+
         System.out.println("numDecimal = " + numDecimal);
 
-        System.out.println("numDecimal = " + numDecimal+ " = "+Integer.toBinaryString(numDecimal));
+        String resultadoBinario = "El numero binario de " + numDecimal + " = " + Integer.toBinaryString(numDecimal);
+        System.out.println(resultadoBinario);
 
-        int numBinario =0b111110100;
+        int numBinario = 0b111110100;
 
         System.out.println("numBinario = " + numBinario);
 
-        System.out.println("numBinario = " + numDecimal+ " = "+Integer.toOctalString(numDecimal));
+        String resultadoOctal = "El numero octal de " + numDecimal + " = " + Integer.toOctalString(numDecimal);
+        System.out.println(resultadoOctal);
 
-        int numOctal=0764;
+        int numOctal = 0764;
 
         System.out.println("numOctal = " + numOctal);
 
-        System.out.println("numero hexadecimal = " + numDecimal+ " = "+ Integer.toHexString(numDecimal));
+        String resultadoHex = "El numero hexagesimal de " + numDecimal + " = " + Integer.toHexString(numDecimal);
+        System.out.println(resultadoHex);
 
-        int numHex= 0x1f4;
 
-        System.out.println("numHex = " + numHex);
 
+        String mensaje = resultadoBinario;
+        mensaje += "\n"+ resultadoOctal ;
+        mensaje += "\n"+ resultadoHex;
+
+        JOptionPane.showMessageDialog(null, mensaje);
 
 
     }
