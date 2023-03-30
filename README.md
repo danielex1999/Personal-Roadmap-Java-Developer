@@ -7,6 +7,11 @@ Aprenderemos las mejores practicas en desarrollo utilizando programación orient
 - [Seccion 01: Introducción](src/Conceptos/Introduccion.md)
 
 - [Seccion 02: Variables](src/Conceptos/Variables.md)
+
+- [Seccion 03: Tipo String: Cadenas](src/Conceptos/String.md)
+
+---
+
 <div align="center">
 <img src="src/img/100.gif">
 </div>
