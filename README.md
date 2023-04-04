@@ -10,6 +10,8 @@ Aprenderemos las mejores practicas en desarrollo utilizando programación orient
 
 - [Seccion 03: Tipo String: Cadenas](src/Conceptos/String.md)
 
+- [Seccion 04: Operadores](src/Conceptos/Operadores.md)
+
 ---
 
 <div align="center">
