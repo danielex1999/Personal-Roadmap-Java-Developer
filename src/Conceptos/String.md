@@ -15,7 +15,7 @@ especialmente cómoda.
 
 - Para concatenar String se usa el operador ``+``.
 
-    ```
+    ```java
     String nombre = "Andrés";
     String apellido = "Guzmán";
 
@@ -26,7 +26,7 @@ especialmente cómoda.
 
 - Para comparar String se usa el método ``equals``.
 
-    ```
+    ```java
     String str1 = "Hola Andres";
     String str2 = new String("Hola Andres");
   
