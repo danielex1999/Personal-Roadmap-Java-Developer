@@ -12,7 +12,7 @@ Las variables en Java pueden ser uno de los siguientes tipos:
         - Usa el código UNICODE y ocupa cada carácter 16 bits
 
           | Secuencia de escape | Símbolo |
-          |--------------------| ------------- |
+                              |--------------------| ------------- |
           | \b | Retroceso |
           | \n | Nueva línea |
           | \r |Retorno del carro|

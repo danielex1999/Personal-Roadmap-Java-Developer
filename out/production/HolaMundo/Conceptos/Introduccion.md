@@ -39,23 +39,28 @@ cualquier plataforma, sea cual sea la plataforma en la que se desarrollaron orig
 
 1. **NetBeans**
 
-    Inicialmente desarrollado por Sun y ahora en manos de Oracle, NetBeans es uno de los IDE para desarrollo Java más
-completos. NetBeans tiene una estructura modular fácilmente ampliable mediante complementos, existiendo configuraciones
-predefinidas para desarrollo Java SE, Java EE y también dirigidas a otros lenguajes de programación, como PHP o C++.
+   Inicialmente desarrollado por Sun y ahora en manos de Oracle, NetBeans es uno de los IDE para desarrollo Java más
+   completos. NetBeans tiene una estructura modular fácilmente ampliable mediante complementos, existiendo
+   configuraciones
+   predefinidas para desarrollo Java SE, Java EE y también dirigidas a otros lenguajes de programación, como PHP o C++.
 
 2. **Eclipse**
 
-    Al igual que NetBeans, Eclipse también es un proyecto de código abierto y el IDE está disponible para múltiples sistemas
-operativos. Eclipse es un IDE no solo para Java, sino para muchos otros lenguajes y herramientas de desarrollo. Es
-considerado por muchos el IDE por excelencia, al incorporar un gran abanico de complementos que facilitan prácticamente
-todas las tareas relativas al desarrollo de software.
+   Al igual que NetBeans, Eclipse también es un proyecto de código abierto y el IDE está disponible para múltiples
+   sistemas
+   operativos. Eclipse es un IDE no solo para Java, sino para muchos otros lenguajes y herramientas de desarrollo. Es
+   considerado por muchos el IDE por excelencia, al incorporar un gran abanico de complementos que facilitan
+   prácticamente
+   todas las tareas relativas al desarrollo de software.
 
 3. **IntelliJ IDEA:**
 
-    IntelliJ IDEA es un IDE para Java desarrollado por la empresa JetBrains, estando disponible para Windows, OS X/MacOS y
-GNU/Linux. Como ocurre con NetBeans y Eclipse, también puede incorporar soporte para otros lenguajes de programación. A
-diferencia de ellos, sin embargo, no se trata de un proyecto totalmente basado en software libre, sino de un producto
-comercial. Existe, no obstante, una edición reducida denominada Community que puede obtenerse gratuitamente.
+   IntelliJ IDEA es un IDE para Java desarrollado por la empresa JetBrains, estando disponible para Windows, OS X/MacOS
+   y
+   GNU/Linux. Como ocurre con NetBeans y Eclipse, también puede incorporar soporte para otros lenguajes de programación.
+   A
+   diferencia de ellos, sin embargo, no se trata de un proyecto totalmente basado en software libre, sino de un producto
+   comercial. Existe, no obstante, una edición reducida denominada Community que puede obtenerse gratuitamente.
 
 <div align="center">
 <img src="../img/java.png" height="100">
