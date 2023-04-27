@@ -9,17 +9,21 @@ PrimeFaces, AJAX, Enterprise JavaBeans (EJB), API RESTful (JAX-RS), Web Services
 de Aplicaciones JBoss Wildfly y mucho más. También incluimos Spring Boot y desarrollo Full Stack con Angular y Spring,
 imperdible! sin dudas el mejor curso y más completo para aprender Java en Udemy y en toda la web.
 
-- [Seccion 01: Introducción](src/Conceptos/Introduccion.md)
+- [Sección 01: Introducción](src/Conceptos/Introduccion.md)
 
-- [Seccion 02: Variables](src/Conceptos/Variables.md)
+- [Sección 02: Variables](src/Conceptos/Variables.md)
 
-- [Seccion 03: Tipo String: Cadenas](src/Conceptos/String.md)
+- [Sección 03: Tipo String: Cadenas](src/Conceptos/String.md)
 
-- [Seccion 04: Operadores](src/Conceptos/Operadores.md)
+- [Sección 04: Operadores](src/Conceptos/Operadores.md)
 
-- [Seccion 05: Flujos de Control](src/Conceptos/FlujosDeControl.md)
+- [Sección 05: Flujos de Control](src/Conceptos/FlujosDeControl.md)
 
-- [Seccion 06: Clases Wrapper](src/Conceptos/Wrapper.md)
+- [Sección 06: Clases Wrapper](src/Conceptos/Wrapper.md)
+
+- [Sección 07: Valor v/s referencia](src/Conceptos/ValorReferencia.md)
+
+- [Sección 08: Las clases Date y Calendar](src/Conceptos/Wrapper.md)
 
 ---
 
