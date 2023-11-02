@@ -63,5 +63,5 @@ cualquier plataforma, sea cual sea la plataforma en la que se desarrollaron orig
    comercial. Existe, no obstante, una edición reducida denominada Community que puede obtenerse gratuitamente.
 
 <div align="center">
-<img src="../img/java.png" height="100">
+<img src="../../img/java.png" height="100">
 </div>

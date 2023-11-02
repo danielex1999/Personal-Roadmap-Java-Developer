@@ -1,30 +1,68 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-## Aprende con el mejor curso Java de cero con las mejores prácticas POO, Java EE 9, CDI, JPA, EJB, JSF, Web Services, JAAS
+## Personal Roadmap Java Developer
 
-Aprenderemos las mejores practicas en desarrollo utilizando programación orientado a objetos y patrones de diseños (
-GoF), recursividad, programación funcional, expresiones lambda y API stream de Java 8, hilos (threads), concurrencia,
-unit testing con JUnit 5, Mockito, Java EE 9 Web Servlets/JSP, Weld CDI, JPA/Hibernate, JavaServer Faces (JSF),
-PrimeFaces, AJAX, Enterprise JavaBeans (EJB), API RESTful (JAX-RS), Web Services SOAP (JAX-WS), Seguridad JAAS, Servidor
-de Aplicaciones JBoss Wildfly y mucho más. También incluimos Spring Boot y desarrollo Full Stack con Angular y Spring,
-imperdible! sin dudas el mejor curso y más completo para aprender Java en Udemy y en toda la web.
+Step by step guide to becoming a Java developer in 2023
 
-- [Sección 01: Introducción](src/Conceptos/Introduccion.md)
+- [Fundamentos de Java](src/Conceptos/fundamentos-de-java/Introduccion.md)
+  - [Basic Syntax](src/Conceptos/fundamentos-de-java/basic_syntax.md)
+  - [Data Types and Variables]
+  - [Conditionals]
+  - [Functions]
+  - [Loops]
+  - [Exception Handling]
+  - [Datastructures]
+  - [OOP,Interfaces,Classes]
+  - [Packages]
+  - [Files and APIs]
 
-- [Sección 02: Variables](src/Conceptos/Variables.md)
+- [Getting Deeper](src/Conceptos/Variables.md)
+  - [Memory Management]
+  - [Collection Framework]
+  - [Serialization]
+  - [Networking sockets]
+  - [Generics]
+  - [Streams]
+  - [How JVM Works]
+  - [Garbage Collection]
+  - [Basics of Threads]
 
-- [Sección 03: Tipo String: Cadenas](src/Conceptos/String.md)
+- [Build Tools](src/Conceptos/String.md)
+  - [Gradle]
+  - [Maven]
+  - [Ant]
 
-- [Sección 04: Operadores](src/Conceptos/Operadores.md)
+- [Web Frameworks](src/Conceptos/Operadores.md)
+  - [Spring]
+  - [Spring Boot]
+  - [Play Framework]
+  - [Spark]
 
-- [Sección 05: Flujos de Control](src/Conceptos/FlujosDeControl.md)
+- [ORM (Object-Relational Mapping)](src/Conceptos/FlujosDeControl.md)
+  - [Spring Data JPA]
+  - [Hibernate]
+  - [EBean]
 
-- [Sección 06: Clases Wrapper](src/Conceptos/Wrapper.md)
+- [Logging Frameworks](src/Conceptos/Wrapper.md)
+  - [SLF4J]
+  - [TinyLog]
 
-- [Sección 07: Valor v/s referencia](src/Conceptos/ValorReferencia.md)
+- [Java JDBC](src/Conceptos/ValorReferencia.md)
+  - [JDBI3]
+  - [JDBC Template]
 
-- [Sección 08: Las clases Date y Calendar](src/Conceptos/Wrapper.md)
-
+- [Testing](src/Conceptos/Wrapper.md)
+  - [Mocking]
+  - [Behavior Testing]
+    - [Cucumber JVM]
+    - [Cukes]
+    - [JBehave]
+  - [Unit Testing]
+    - [JUnit]
+    - [TestNG]
+  - [Integration Testing]
+    - [REST assured]
+    - [JMeter]
 ---
 
 <div align="center">
