@@ -1,3 +1,4 @@
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](../../../README.md)
 ## Lenguaje Java
 
 Java nace en 1991 con el nombre "OAK", posteriormente cambiado por Green por problemas legales, y finalmente con la
@@ -9,7 +10,7 @@ arquitectura "Write Once, Run Anywhere (escríbelo una vez, ejecútalo en cualqu
 
 ### Versiones de Java
 
-**a)** J2SE o simplemente Java SE: Java 2 Standard Edition o Java Standard Edition. Orientado al desarrollo de
+**a)** J2SE o simplemente Java SE:/ Java 2 Standard Edition o Java Standard Edition. Orientado al desarrollo de
 aplicaciones
 cliente / servidor. No incluye soporte a tecnologías para internet. Es la base para las otras distribuciones Java y es
 la plataforma que utilizaremos nosotros en este curso por ser la más utilizada.
