@@ -6,7 +6,7 @@ Step by step guide to becoming a Java developer in 2023
 
 - [Fundamentos de Java](src/Conceptos/fundamentos-de-java/Introduccion.md)
   - [Basic Syntax](src/Conceptos/fundamentos-de-java/basic_syntax.md)
-  - [Data Types and Variables]
+  - [Data Types and Variables](src/Conceptos/fundamentos-de-java/data-types-and-variables.md)
   - [Conditionals]
   - [Functions]
   - [Loops]
@@ -43,7 +43,7 @@ Step by step guide to becoming a Java developer in 2023
   - [Hibernate]
   - [EBean]
 
-- [Logging Frameworks](src/Conceptos/Wrapper.md)
+- [Logging Frameworks](src/Conceptos/fundamentos-de-java/data-types-and-variables.md)
   - [SLF4J]
   - [TinyLog]
 
@@ -51,7 +51,7 @@ Step by step guide to becoming a Java developer in 2023
   - [JDBI3]
   - [JDBC Template]
 
-- [Testing](src/Conceptos/Wrapper.md)
+- [Testing](src/Conceptos/fundamentos-de-java/data-types-and-variables.md)
   - [Mocking]
   - [Behavior Testing]
     - [Cucumber JVM]
