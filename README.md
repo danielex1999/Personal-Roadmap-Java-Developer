@@ -7,7 +7,7 @@ Step by step guide to becoming a Java developer in 2023
 - [Fundamentos de Java](src/Conceptos/fundamentos-de-java/Introduccion.md)
   - [Basic Syntax](src/Conceptos/fundamentos-de-java/basic_syntax.md)
   - [Data Types and Variables](src/Conceptos/fundamentos-de-java/data-types-and-variables.md)
-  - [Conditionals]
+  - [Conditionals](src/Conceptos/fundamentos-de-java/conditionals.md)
   - [Functions]
   - [Loops]
   - [Exception Handling]
@@ -38,7 +38,7 @@ Step by step guide to becoming a Java developer in 2023
   - [Play Framework]
   - [Spark]
 
-- [ORM (Object-Relational Mapping)](src/Conceptos/FlujosDeControl.md)
+- [ORM (Object-Relational Mapping)](src/Conceptos/fundamentos-de-java/conditionals.md)
   - [Spring Data JPA]
   - [Hibernate]
   - [EBean]
